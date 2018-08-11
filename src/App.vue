@@ -4,11 +4,11 @@
     <router-view/>
   </div>
 </template>
-
+kzuhfmzughme
 <script>
 export default {
-  name: 'App'
-}
+  name: 'App',
+};
 </script>
 
 <style>
